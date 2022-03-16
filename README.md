@@ -8,7 +8,7 @@ A API usada nesse projeto foi a [Love Calculator](https://rapidapi.com/ajith/api
 
 ## Tecnologias & Bibliotecas
 
-1 - React
-2 - React-bootstrap
-3 - framer-motion
-4 - axios
+1. React
+2. React-bootstrap
+3. framer-motion
+4. axios
