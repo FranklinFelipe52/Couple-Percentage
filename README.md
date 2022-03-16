@@ -12,3 +12,4 @@ A API usada nesse projeto foi a [Love Calculator](https://rapidapi.com/ajith/api
 2. React-bootstrap
 3. framer-motion
 4. axios
+5. Typescript
