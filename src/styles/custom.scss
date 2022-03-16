@@ -1,0 +1,9 @@
+$theme-colors: (
+    "info": tomato,
+    "danger": rgb(250, 115, 115),
+    "pink-dark": rgb(154, 66, 180),
+    "sucess": rgb(40, 126, 40)
+);
+
+@import "style.scss";
+@import "~bootstrap/scss/bootstrap";

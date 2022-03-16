@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(41, 41, 41)!important;
+}
+.Logo{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    color: rgb(213, 98, 248);
+    text-shadow: 1px 1px 15px rgb(213, 98, 248);
+}
+.containerInput{
+    color: rgb(212, 216, 216);
+    width: 100%;
+    div{
+        border: 1px solid rgb(213, 98, 248);
+        border-radius: 8px;
+        input{
+            background: transparent;
+            outline: 0;
+            border: 0;
+            border-radius: 8px;
+            width: 100%;
+
+            padding: 8px 16px;
+            color: rgb(230, 227, 227);
+            font-size: 16px
+        }
+    }
+}
+.example-container div {
+    border-radius: 30px;
+    width: 240px;
+    height: 150px;
+    padding: 16px;
+    h2{
+        text-align: center;
+        color: white;
+        font-size: 48px;
+    }
+    h3{
+        text-align: center;
+        font-size: 16px;
+    }
+  }
